@@ -192,4 +192,4 @@ async def help(ctx):
 
 # Ejecutamos el bot
 print('Bot Iniciado.')
-bot.run('ODUwMzQ5MjQ0ODEyNjIzOTQz.YLobcg.N_z8ooUq8sXGG0vYSZnI20j5cM8')
+bot.run('ODUwMzQ5MjQ0ODEyNjIzOTQz.YLobcg.OtnhfxXtwE-JjlaaA5fqjjaGL2c')
